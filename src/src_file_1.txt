@@ -4,3 +4,4 @@ Line 3 feature 1.
 Line 4 feature 1.
 Line 5 feature 1.
 Line new.
+Line 5 feature 1.
